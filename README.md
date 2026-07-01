@@ -122,9 +122,9 @@ I am a passionate Full-Stack Developer and AI Integrator. I love building high-p
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ak1458&show_icons=true&theme=tokyonight&hide_border=false&title_color=00D2FF&icon_color=00D2FF&text_color=FFFFFF&bg_color=0d1117" alt="Ashraf's GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ak1458&show_icons=true&theme=tokyonight&hide_border=false&title_color=00D2FF&icon_color=00D2FF&text_color=FFFFFF&bg_color=0d1117" alt="Ashraf's GitHub Stats" width="48%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak1458&layout=compact&theme=tokyonight&hide_border=false&title_color=00D2FF&icon_color=00D2FF&text_color=FFFFFF&bg_color=0d1117" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ak1458&layout=compact&theme=tokyonight&hide_border=false&title_color=00D2FF&icon_color=00D2FF&text_color=FFFFFF&bg_color=0d1117" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
