@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hi, I'm Ashraf Kamal (@ak1458)</h1>
 <p align="center">
-  <strong>Founder & Lead Engineer at Smile Fotilo | Full-Stack Developer & AI Integrator</strong>
+  <strong>Full-Stack Developer & AI Architect</strong>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://smilefotilo.com/"><img src="https://img.shields.io/badge/Portfolio-smilefotilo.com-00D2FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:ashrafkamal1458@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/ashrafkamal14"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/YOUR_TWITTER_USERNAME"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
 </p>
 
@@ -24,10 +24,10 @@
 
 ### 🚀 About Me
 
-I am a passionate Full-Stack Developer and the Founder of **[Smile Fotilo](https://smilefotilo.com/)**. I build high-performance web applications, secure local-first systems, and AI automation workflows. Specializing in the modern JS/TS ecosystem (Next.js, React, TypeScript) and robust backend/database solutions (Laravel, PHP, PostgreSQL, Supabase).
+I am a passionate Full-Stack Developer and AI Integrator. I love building high-performance web applications, secure local-first systems, and AI automation workflows. Specializing in the modern JS/TS ecosystem (Next.js, React, TypeScript) and robust backend/database solutions (Laravel, PHP, PostgreSQL, Supabase).
 
-- 🛠️ **Founder & Lead Engineer** at [Smile Fotilo](https://github.com/ak1458/smile-fotilo-web-nextjs) — building next-generation digital experiences.
-- 🤖 Building **AI agents & vision tools** (Claude, Ollama, FastAPI) for real-world automation and product workflows.
+- 🛠️ Building **next-generation digital experiences** and high-performance web applications.
+- 🤖 Creating **AI agents & vision workflows** (Claude, Ollama, FastAPI) for real-world product automation.
 - 🔒 Strong advocate of **zero-knowledge privacy** and **offline-first / local-first** data architecture.
 - 💼 **Available for freelance / contract work** — Next.js, full-stack builds, and custom AI integrations.
 - 📍 Based in India.
@@ -97,8 +97,8 @@ I am a passionate Full-Stack Developer and the Founder of **[Smile Fotilo](https
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ <a href="https://github.com/ak1458/smile-fotilo-web-nextjs">Smile Fotilo</a></h4>
-      <p>A premium digital-agency platform featuring AI-powered interactions, modern reactive UI, and advanced SEO. Built with <strong>Next.js 16</strong> and <strong>TypeScript</strong>.</p>
+      <h4>⚡ <a href="https://github.com/ak1458/smile-fotilo-web-nextjs">Digital Agency Platform</a></h4>
+      <p>A premium agency storefront platform featuring AI-powered interactions, modern reactive UI, and advanced SEO. Built with <strong>Next.js 16</strong> and <strong>TypeScript</strong>.</p>
     </td>
     <td width="50%" valign="top">
       <h4>🧾 <a href="https://github.com/ak1458/fatooralite">FatooraLite</a></h4>
@@ -135,12 +135,12 @@ I am a passionate Full-Stack Developer and the Founder of **[Smile Fotilo](https
 
 ### 📬 Connect With Me
 
-* 🌐 **Portfolio / Company**: [smilefotilo.com](https://smilefotilo.com/)
+* 🌐 **Portfolio**: [smilefotilo.com](https://smilefotilo.com/)
 * 📧 **Email**: [ashrafkamal1458@gmail.com](mailto:ashrafkamal1458@gmail.com)
 * 💼 **GitHub**: [@ak1458](https://github.com/ak1458)
 * 📍 India · Available for freelance & contract work
 
 <!-- 
 SEO Metadata & Indexing optimization:
-Keywords: Ashraf Kamal, Smile Fotilo, Full-Stack Developer, Next.js Developer, React, TypeScript, Laravel Developer, AI Agent Developer, Software Engineer India.
+Keywords: Ashraf Kamal, Full-Stack Developer, Next.js Developer, React, TypeScript, Laravel Developer, AI Agent Developer, Software Engineer India.
 -->
