@@ -1,67 +1,81 @@
-# 👋 Hi, I'm Ashraf Kamal (@ak1458)
+<p align="center">
+  <img src="assets/banner.png" alt="Ashraf Kamal Banner" width="100%" />
+</p>
 
-### Full-Stack Developer · Next.js · TypeScript · Laravel · AI Automation — Founder @ Smile Fotilo (India)
+<h1 align="center">👋 Hi, I'm Ashraf Kamal (@ak1458)</h1>
+<p align="center">
+  <strong>Founder & Lead Engineer at Smile Fotilo | Full-Stack Developer & AI Integrator</strong>
+</p>
 
-<p align="left">
-  <a href="https://smilefotilo.com/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&width=480&lines=Full-Stack+Web+Developer+%7C+Next.js+%2B+TypeScript;Laravel+%2F+PHP+%2B+PostgreSQL+Backends;AI+Automation+%26+Agent+Builder;Available+for+Freelance+%26+Contract+Work" alt="Typing SVG" />
+<p align="center">
+  <a href="https://github.com/ak1458">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&width=480&align=center&center=true&lines=Full-Stack+Web+Developer;Next.js+%2B+TypeScript+Enthusiast;Laravel+%2F+PHP+%2B+PostgreSQL;AI+Agent+%26+Automation+Builder" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="left">
-  <a href="https://smilefotilo.com/"><img src="https://img.shields.io/badge/Portfolio-smilefotilo.com-00D2FF?style=for-the-badge" /></a>
-  <a href="mailto:ashrafkamal1458@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- TODO: add your real LinkedIn URL below, then uncomment -->
-  <!-- <a href="https://www.linkedin.com/in/YOUR-HANDLE/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+<p align="center">
+  <a href="https://smilefotilo.com/"><img src="https://img.shields.io/badge/Portfolio-smilefotilo.com-00D2FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:ashrafkamal1458@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-Full-Stack Developer and Founder of **[Smile Fotilo](https://smilefotilo.com/)**. I build high-performance web apps, secure local-first systems, and AI automation tools for businesses. Specializing in the modern JS/TS stack (**Next.js, React, TypeScript**) and robust backends (**Laravel/PHP, PostgreSQL, Supabase**).
+I am a passionate Full-Stack Developer and the Founder of **[Smile Fotilo](https://smilefotilo.com/)**. I build high-performance web applications, secure local-first systems, and AI automation workflows. Specializing in the modern JS/TS ecosystem (Next.js, React, TypeScript) and robust backend/database solutions (Laravel, PHP, PostgreSQL, Supabase).
 
-* 🛠️ **Founder & Lead Engineer** at [Smile Fotilo](https://github.com/ak1458/smile-fotilo-web-nextjs) — digital agency platform.
-* 🤖 Building **AI agents & vision tools** (Claude, Ollama, FastAPI) for real product workflows.
-* 🔒 Advocate of **zero-knowledge privacy** and **offline-first** architecture.
-* 💼 **Available for freelance / contract** — Next.js, full-stack builds, AI integration.
+- 🛠️ **Founder & Lead Engineer** at [Smile Fotilo](https://github.com/ak1458/smile-fotilo-web-nextjs) — building next-generation digital experiences.
+- 🤖 Building **AI agents & vision tools** (Claude, Ollama, FastAPI) for real-world automation and product workflows.
+- 🔒 Strong advocate of **zero-knowledge privacy** and **offline-first / local-first** data architecture.
+- 💼 **Available for freelance / contract work** — Next.js, full-stack builds, and custom AI integrations.
+- 📍 Based in India.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-<table>
+<table align="center" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <h4>💻 Frontend</h4>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      <h4>💻 Frontend Development</h4>
+      <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
+      <a href="https://reactjs.org"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+      <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+      <br/>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+      <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
     </td>
     <td valign="top" width="50%">
-      <h4>⚙️ Backend & Data</h4>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      <h4>⚙️ Backend, Cloud & Databases</h4>
+      <a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /></a>
+      <a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
+      <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+      <br/>
+      <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+      <a href="https://supabase.com"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></a>
+      <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-56F2D2?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL" /></a>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h4>🤖 AI & Specialized</h4>
-      <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Web_Crypto_API-0052CC?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+      <h4>🤖 AI, Security & Specialized</h4>
+      <a href="https://anthropic.com"><img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" /></a>
+      <a href="https://ollama.com"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" /></a>
+      <a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
+      <br/>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API"><img src="https://img.shields.io/badge/Web_Crypto_API-0052CC?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Web Crypto API" /></a>
+      <a href="https://en.wikipedia.org/wiki/Zero-knowledge_proof"><img src="https://img.shields.io/badge/Zero_Knowledge-3F51B5?style=for-the-badge&logo=keepassxc&logoColor=white" alt="Zero Knowledge" /></a>
     </td>
     <td valign="top" width="50%">
-      <h4>🛠️ Tooling</h4>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <h4>🛠️ Tools & DevOps</h4>
+      <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+      <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+      <br/>
+      <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /></a>
+      <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
     </td>
   </tr>
 </table>
@@ -70,46 +84,63 @@ Full-Stack Developer and Founder of **[Smile Fotilo](https://smilefotilo.com/)**
 
 ### 📂 Featured Projects
 
-> These match my pinned repositories.
-
-#### 🚤 [Carfax for Boats](https://github.com/ak1458/carfax-for-boats)
-> AI-powered transferable marine maintenance records. Snap a photo of an engine plate, receipt, or hour meter — **Claude vision** builds a verified, shareable service history. **Next.js · Supabase · Computer Vision.**
-
-#### 🧾 [FatooraLite](https://github.com/ak1458/fatooralite)
-> **ZATCA Phase 2** e-invoicing compliance platform for Saudi SMEs — real Fatoora gateway (CSID onboarding + clearance), bilingual AR/EN, installable PWA. **Next.js 16 · PostgreSQL · Prisma.**
-
-#### ⚡ [Smile Fotilo](https://github.com/ak1458/smile-fotilo-web-nextjs)
-> Premium digital-agency platform with AI-powered interactions, modern reactive UI, and advanced SEO. **Next.js 16 · TypeScript.**
-
-#### 🛒 [PulseKart](https://github.com/ak1458/pulsekart-web-nextjs)
-> Enterprise full-stack e-commerce marketplace — server-rendered storefronts, fast search, dynamic inventory. **Next.js 16 · TypeScript · PostgreSQL.**
-
-#### 🔒 [Sovereign Vault](https://github.com/ak1458/sovereign-vault)
-> Local-first privacy vault with **zero-knowledge** client-side encryption via the native **Web Crypto API**. **TypeScript.**
-
-#### 📚 [Tuition Mandi](https://github.com/ak1458/tuition-mandi-pwa)
-> Production PWA for tuition teachers — offline mutation queue, Supabase Edge Functions, AI progress reports. **React · TypeScript · Supabase.**
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚤 <a href="https://github.com/ak1458/carfax-for-boats">Carfax for Boats</a></h4>
+      <p>AI-powered transferable marine maintenance records. Snap a photo of an engine plate, receipt, or hour meter — Claude vision builds a verified, shareable service history. Built with <strong>Next.js</strong>, <strong>Supabase</strong>, and <strong>Computer Vision</strong>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔒 <a href="https://github.com/ak1458/sovereign-vault">Sovereign Vault</a></h4>
+      <p>A next-gen local-first privacy vault with zero-knowledge client-side encryption via the native <strong>Web Crypto API</strong>. Built with <strong>TypeScript</strong> for ultimate privacy sovereignty.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://github.com/ak1458/smile-fotilo-web-nextjs">Smile Fotilo</a></h4>
+      <p>A premium digital-agency platform featuring AI-powered interactions, modern reactive UI, and advanced SEO. Built with <strong>Next.js 16</strong> and <strong>TypeScript</strong>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧾 <a href="https://github.com/ak1458/fatooralite">FatooraLite</a></h4>
+      <p>ZATCA Phase 2 e-invoicing compliance platform for Saudi SMEs. Offers real Fatoora gateway integration (CSID onboarding + clearance), bilingual AR/EN support, and is an installable PWA. Built with <strong>Next.js 16</strong>, <strong>PostgreSQL</strong>, and <strong>Prisma</strong>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📚 <a href="https://github.com/ak1458/tuition-mandi-pwa">Tuition Mandi</a></h4>
+      <p>Production PWA for tuition teachers with offline mutation queue, Supabase Edge Functions, and AI progress reports. Built with <strong>React</strong>, <strong>TypeScript</strong>, and <strong>Supabase</strong>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛒 <a href="https://github.com/ak1458/PulseKart-Nextjs-web-app">PulseKart</a></h4>
+      <p>Enterprise full-stack e-commerce marketplace offering server-rendered storefronts, lightning-fast search queries, and dynamic inventory. Built with <strong>Next.js 16</strong>, <strong>TypeScript</strong>, and <strong>PostgreSQL</strong>.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ak1458&show_icons=true&theme=nord&hide_border=false&title_color=00D2FF&icon_color=00D2FF" alt="Ashraf's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak1458&layout=compact&theme=nord&hide_border=false&title_color=00D2FF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ak1458&show_icons=true&theme=tokyonight&hide_border=false&title_color=00D2FF&icon_color=00D2FF&text_color=FFFFFF&bg_color=0d1117" alt="Ashraf's GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak1458&layout=compact&theme=tokyonight&hide_border=false&title_color=00D2FF&icon_color=00D2FF&text_color=FFFFFF&bg_color=0d1117" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ak1458&theme=tokyonight&background=0d1117&ring=00D2FF&fire=00D2FF&currStreakNum=FFFFFF" alt="GitHub Streak" width="98%" />
 </p>
 
 ---
 
-### 📬 Connect
+### 📬 Connect With Me
 
-* 🌐 Portfolio: [smilefotilo.com](https://smilefotilo.com/)
-* 📧 Email: [ashrafkamal1458@gmail.com](mailto:ashrafkamal1458@gmail.com)
-* 💼 GitHub: [@ak1458](https://github.com/ak1458)
+* 🌐 **Portfolio / Company**: [smilefotilo.com](https://smilefotilo.com/)
+* 📧 **Email**: [ashrafkamal1458@gmail.com](mailto:ashrafkamal1458@gmail.com)
+* 💼 **GitHub**: [@ak1458](https://github.com/ak1458)
 * 📍 India · Available for freelance & contract work
 
-<!--
-  SEO note: keep your real name "Ashraf Kamal" + core keywords (Full-Stack, Next.js,
-  TypeScript, Laravel, AI) in the first two lines — that is what Google + GitHub index.
+<!-- 
+SEO Metadata & Indexing optimization:
+Keywords: Ashraf Kamal, Smile Fotilo, Full-Stack Developer, Next.js Developer, React, TypeScript, Laravel Developer, AI Agent Developer, Software Engineer India.
 -->
