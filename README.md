@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hi, I'm Ashraf Kamal (@ak1458)</h1>
 <p align="center">
-  <strong>Full-Stack Developer & AI Architect</strong>
+  <strong>Founder @ Arranto · Full-Stack Developer & AI Architect</strong>
 </p>
 
 <p align="center">
@@ -14,9 +14,10 @@
 </p>
 
 <p align="center">
-  <a href="https://smilefotilo.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-smilefotilo.com-00D2FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://arranto.com"><img src="https://img.shields.io/badge/Arranto-arranto.com-00D2FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:ashrafkamal1458@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/ashrafkamal14"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/ashrafkamal14"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/company/arranto"><img src="https://img.shields.io/badge/Arranto-Company_Page-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Arranto LinkedIn" /></a>
   <a href="https://twitter.com/YOUR_TWITTER_USERNAME"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
 </p>
 
@@ -135,7 +136,7 @@ I am a passionate Full-Stack Developer and AI Integrator. I love building high-p
 
 ### 📬 Connect With Me
 
-* 🌐 **Portfolio**: [smilefotilo.com/portfolio](https://smilefotilo.com/portfolio)
+* 🌐 **Portfolio**: [smilefotilo.com/portfolio](https://arranto.com)
 * 📧 **Email**: [ashrafkamal1458@gmail.com](mailto:ashrafkamal1458@gmail.com)
 * 💼 **GitHub**: [@ak1458](https://github.com/ak1458)
 * 📍 India · Available for freelance & contract work
